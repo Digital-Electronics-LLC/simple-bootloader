@@ -2,4 +2,4 @@ bits 16
 
 jmp $
 
-dw 0x55aa
+dw 0xaa55
